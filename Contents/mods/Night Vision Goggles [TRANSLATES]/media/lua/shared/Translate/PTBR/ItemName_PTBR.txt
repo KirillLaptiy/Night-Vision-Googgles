@@ -1,0 +1,7 @@
+ItemName_PTBR = {
+
+
+	ItemName_Base.FMA_GP_NVG_18 = "Óculos de visão noturna FMA GPNVG-18"
+
+
+}

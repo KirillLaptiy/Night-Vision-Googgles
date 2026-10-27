@@ -1,0 +1,8 @@
+IGUI_IT = {
+	
+	IGUI_ModKeymap = "Occhiali per la visione notturna"
+	IGUI_NVG = ""
+	IGUI_Keymap_Entries = "Occhiali per la visione notturna"
+	IGUI_ToggleNightVision = "Accendi/Spegni"
+
+}

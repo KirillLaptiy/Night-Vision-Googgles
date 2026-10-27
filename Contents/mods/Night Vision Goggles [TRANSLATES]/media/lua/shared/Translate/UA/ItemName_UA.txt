@@ -1,0 +1,7 @@
+ItemName_UA = {
+
+
+	ItemName_Base.FMA_GP_NVG_18 = "ќкул€ри н≥чного баченн€ FMA GPNVG-18"
+
+
+}

@@ -1,0 +1,8 @@
+IGUI_ES = {
+	
+	IGUI_ModKeymap = "Gafas de vision nocturna"
+	IGUI_NVG = ""
+	IGUI_Keymap_Entries = "Gafas de vision nocturna"
+	IGUI_ToggleNightVision = "Activar/Desactivar"
+
+}

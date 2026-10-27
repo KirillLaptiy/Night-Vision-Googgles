@@ -1,0 +1,10 @@
+IG_UI_PTBR = {
+
+
+	IGUI_ModKeymap = "Óculos de Visão Noturna"
+	IGUI_NVG = ""
+	IGUI_Keymap_Entries = "Óculos de Visão Noturna"
+	IGUI_ToggleNightVision = "Ativar/Desativar"
+
+
+}

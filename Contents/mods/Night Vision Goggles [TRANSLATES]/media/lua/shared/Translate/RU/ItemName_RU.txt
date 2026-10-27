@@ -1,0 +1,7 @@
+ItemName_RU = {
+
+
+	ItemName_Base.FMA_GP_NVG_18 = "Очки ночного видения FMA GPNVG-18"
+
+
+}

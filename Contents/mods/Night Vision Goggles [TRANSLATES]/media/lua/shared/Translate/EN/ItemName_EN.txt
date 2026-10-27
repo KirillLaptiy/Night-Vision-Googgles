@@ -1,0 +1,7 @@
+ItemName_EN = {
+
+
+	ItemName_Base.FMA_GP_NVG_18 = "Night vision goggles FMA GPNVG-18"
+
+
+}

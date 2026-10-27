@@ -1,0 +1,10 @@
+IG_UI_UA = {
+
+
+	IGUI_ModKeymap = "ПНБ"
+	IGUI_NVG = ""
+	IGUI_Keymap_Entries = "Окуляри нічного бачення"
+	IGUI_ToggleNightVision = "Увімкнути/вимкнути"
+
+
+}

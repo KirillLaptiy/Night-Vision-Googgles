@@ -1,0 +1,10 @@
+IG_UI_EN = {
+
+
+	IGUI_ModKeymap = "NVG"
+	IGUI_NVG = ""
+	IGUI_Keymap_Entries = "Night Vision Goggles"
+	IGUI_ToggleNightVision = "Toggle On/Off"
+
+
+}
